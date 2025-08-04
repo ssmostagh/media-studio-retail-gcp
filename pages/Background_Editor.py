@@ -17,7 +17,7 @@ from google.genai.types import (
 )
 
 # --- Configuration ---
-PROJECT_ID = "mostaghim-llm"
+PROJECT_ID = "<project-id>"
 REGION = "us-central1"
 # lang_model = "gemini-2.0-flash" # Not used in this specific script
 # img_model = "imagen-3.0-fast-generate-001" # Not used in this specific script
