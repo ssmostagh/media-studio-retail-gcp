@@ -17,7 +17,7 @@ from google.genai.types import (
 )
 
 # --- Configuration ---
-PROJECT_ID = "mostaghim-llm"
+PROJECT_ID = "<projectid>"
 REGION = "us-central1"
 lang_model = "gemini-2.0-flash" # YOUR Gemini model
 edit_model = "imagen-3.0-capability-001" # YOUR Imagen model
