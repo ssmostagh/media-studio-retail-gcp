@@ -6,7 +6,7 @@ import io
 import os
 
 # --- Configuration (unchanged) ---
-PROJECT_ID = "mostaghim-llm"
+PROJECT_ID = "<project-id>"
 LOCATION = os.environ.get("GOOGLE_CLOUD_REGION", "us-central1")
 MODEL_ID = "gemini-2.5-flash-001"
 IMG_MODEL = "imagen-4.0-generate-preview-06-06"
