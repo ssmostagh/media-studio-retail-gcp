@@ -15,10 +15,10 @@ This application is built to demonstrate the capabilities of Google's latest AI 
 
 ### ✨ Features
 
-* **Product Image Generation:** Create high-quality product images from text descriptions.
+* **Product Customization - Image Generation:** Use exisiting PDP/images of a product to generate new images.
 * **Background Replacement:** Seamlessly replace the background of existing product photos.
-* **Lifestyle Scene Creation:** Place products into realistic lifestyle environments.
-* **Marketing Copy Generation:** Automatically write compelling product descriptions and ad copy.
+* **Moodboard Creation:** Create professional moodboards with text and a click.
+* **Virtual Try On:** Virtual Try On with Google Cloud's experimental model.
 * **Multi-Page Interface:** Easy-to-navigate UI built with Streamlit.
 
 ## 🛠️ Technology Stack
