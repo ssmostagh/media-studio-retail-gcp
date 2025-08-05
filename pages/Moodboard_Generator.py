@@ -54,11 +54,9 @@ fixed_colors = {
 }
 
 remember_notes = """
-* Capture the chic botanical inspiration through a minimalist lens. The moodboard should feel sophisticated, calming, and aspirational while promoting sustainability and inclusivity.
-* Focus on clean lines, simple silhouettes, and high-quality fabrics: Think tailored pants, flowy skirts, oversized button-down shirts, and structured outerwear.
-* Subtle Botanical References: Incorporate delicate botanical prints, embroidery details, and natural textures. Avoid overwhelming patterns or overly literal interpretations.
-* Consider using images with natural light, soft shadows, and a calming, serene atmosphere.
-* Ensure the moodboard feels timeless, inclusive, and representative of the diverse NOBO Consumer and their desire for sustainable, ethical, and stylish clothing.
+* <note 1>
+* <note 2>
+* ...
 """
 
 # --- Streamlit UI ---
