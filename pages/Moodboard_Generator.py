@@ -113,10 +113,10 @@ if st.button("Generate Moodboards ✨", use_container_width=True):
                     person_generation="ALLOW_ADULT",
                 ),
                 )
-            st.success("Moodboard generated successfully!")
+            st.success("Moodboards generated successfully!")
 
             if response.generated_images:
-                st.subheader(f"Generated Background Variations ({len(response.generated_images)}):")
+                st.subheader(f"Generated Moodboard Variations ({len(response.generated_images)}):")
                 # Display images in columns for better layout
                 cols = st.columns(min(len(response.generated_images), 4)) # Max 4 columns, or as many as images
                 
