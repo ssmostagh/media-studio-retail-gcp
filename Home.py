@@ -17,11 +17,11 @@ import threading
 st.set_page_config(layout="wide")
 
 with st.container(border=False):
-    st.title("Moodboards")
+    st.title("Google Cloud Media Studio")
     #st.markdown("Select from the menu.")
     st.markdown("""
                 #### 1) Please note that these are rapid prototypes.
                 #### 2) The prototypes leverage prompts to adjust how Gemini answers questions.
                 #### 3) A full implementation can use grounding and custom trained models.""")
     #current_folder = os.path.basename(os.getcwd())
-    st.markdown(f"Last update: 07.2025")
+    st.markdown(f"Last update: 08.08.2025")
