@@ -98,9 +98,3 @@ If you have a suggestion that would make this better, please fork the repo and c
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## 📧 Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/ssmostagh/media-studio-retail-gcp](https://github.com/ssmostagh/media-studio-retail-gcp)
