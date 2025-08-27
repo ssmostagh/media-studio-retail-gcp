@@ -19,6 +19,7 @@ This application is built to demonstrate the capabilities of Google's latest AI 
 * **Background Replacement:** Seamlessly replace the background of existing product photos.
 * **Moodboard Creation:** Create professional moodboards with text and a click.
 * **Virtual Try On:** Virtual Try On with Google Cloud's experimental model.
+* **Custom Greeting Card Generation** Generate custom greeting cards with Imagen.
 * **Multi-Page Interface:** Easy-to-navigate UI built with Streamlit.
 
 ## 🛠️ Technology Stack
